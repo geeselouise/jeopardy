@@ -36,6 +36,7 @@ Finally, it made sense that the more discernable topics were science and arts be
 ## Tools: 
 - Python text processing librariers: NLTK and sklearn.
 - Numpy, pandas, and regex were used for some of the processing.
+- Vectorizer: TFIDF
 - Visualization via Tableau and some use of seaborn/ matplotlib.
 
 
